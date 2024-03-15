@@ -1,0 +1,31 @@
+.photoChange {
+    width: 500px;
+    height: 350px;
+    background-color: aqua;
+    border-radius: 15px;
+    top: 25%;
+    left: 32%;
+    position: absolute;
+}
+/* .left {
+    width: 70px;
+    height: 70px;
+    background-color: #bdbdbd;
+    position: absolute;
+    top: 40%;
+    left: -7%;
+    border-radius: 50%;
+    
+}
+.left:hover{
+    background-color: #ffffff;
+}
+.right {
+    width: 70px;
+    height: 70px;
+    background-color: #bdbdbd;
+    border-radius: 50%;
+    top: 40%;
+    margin-left: 80px;
+
+} */
